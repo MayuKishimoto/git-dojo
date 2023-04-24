@@ -13,8 +13,4 @@
 13 hogefuga
 14 hoge
 15 hoge
-<<<<<<< HEAD
 16 hogo
-=======
-16 fugafuga
->>>>>>> master
