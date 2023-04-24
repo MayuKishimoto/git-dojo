@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+aaa
+「明日は1月期生の発表会ですよ！」
+
+16 fugafuga
+=======
 1 今日はgit道場に参加してる  hogefuga
 2 どんな編集をしたらいいかわからないが hoge
 4 hoge
@@ -16,3 +22,6 @@
 16 hoge
 17 hoge
 18 nice to meet you
+
+nogimeeeeeeeeeeeeeeeeeeeee
+>>>>>>> master
